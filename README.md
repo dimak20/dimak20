@@ -19,13 +19,13 @@
 
 ### 👋 About me
 
-Backend engineer who owns services end-to-end — from the data layer and API design through auth and background processing to the cloud they run on.
+Backend engineer who owns services end-to-end - from the data layer and API design through auth and background processing to the cloud they run on.
 
-- ⚙️ **Backend** — async FastAPI services, microservices over **Kafka**, hand-written **OAuth / SSO**, background work on **Celery + Redis**
-- ☁️ **Cloud & data pipelines** — media and 3D point-cloud pipelines on **AWS Batch, EC2 and Fargate**, terabytes of video processed in tens of minutes, credential-less via IAM roles
-- 🚢 **Platform** — Kubernetes manifests → Helm charts → Terraform-provisioned private **GKE with ArgoCD** GitOps, keyless CI through OIDC
-- 🧠 **AI** — distributed GPU compute platform, RAG pipelines, fine-tuned Llama & YOLO, Whisper / Vertex AI / OpenAI integrations, product **MCP server**
-- 📈 **Observability** — OpenTelemetry, Prometheus, Loki, Grafana; database benchmarking and latency tuning
+- ⚙️ **Backend** - async FastAPI services, microservices over **Kafka**, hand-written **OAuth / SSO**, background work on **Celery + Redis**
+- ☁️ **Cloud & data pipelines** - media and 3D point-cloud pipelines on **AWS Batch, EC2 and Fargate**, terabytes of video processed in tens of minutes, credential-less via IAM roles
+- 🚢 **Platform** - Kubernetes manifests → Helm charts → Terraform-provisioned private **GKE with ArgoCD** GitOps, keyless CI through OIDC
+- 🧠 **AI** - distributed GPU compute platform, RAG pipelines, fine-tuned Llama & YOLO, Whisper / Vertex AI / OpenAI integrations, product **MCP server**
+- 📈 **Observability** - OpenTelemetry, Prometheus, Loki, Grafana; database benchmarking and latency tuning
 
 ---
 
